@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aishwarya Chauhan 👋
 
-<!--
-**chauhanaish555-stack/chauhanaish555-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI/ML) — 2nd Year
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+- Python | C++ | Java | HTML
+- Pandas | NumPy | Matplotlib
+
+📂 Projects
+- 🔹 [Student Result Analyser](https://github.com/chauhanaish555-stack/student_result_analyser) — Data analysis using Python, Pandas and Matplotlib
+
+🌱 Currently Learning
+- Machine Learning
+- Data Analysis
+
+📫 Connect with me on LinkedIn — https://www.linkedin.com/in/aishwarya-chauhan-272407375?utm_source=share_via&utm_content=profile&utm_medium=member_android
