@@ -11,7 +11,7 @@
 📂 Projects
 - 🔹 [Student Result Analyser](https://github.com/chauhanaish555-stack/student_result_analyser) — Data analysis using Python, Pandas and Matplotlib
 -  🔹 [Diabetes Prediction](Project_2_Diabetes_Prediction.ipynb) — Machine learning model to predict diabetes using health metrics.
--  🔹 [Car price Prediction](Project_2_Diabetes_Prediction.ipynb) — Machine learning model to predict car prices using car data metrics.
+-  🔹 [Car price Prediction](carprice__prediction.ipynb) — Machine learning model to predict car prices using car data metrics.
 
 🌱 Currently Learning
 - Machine Learning
