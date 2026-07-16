@@ -10,6 +10,7 @@
 
 📂 Projects
 - 🔹 [Student Result Analyser](https://github.com/chauhanaish555-stack/student_result_analyser) — Data analysis using Python, Pandas and Matplotlib
+-  🔹 [Diabetes Prediction](link) — Machine learning model to predict diabetes using health metrics
 
 🌱 Currently Learning
 - Machine Learning
